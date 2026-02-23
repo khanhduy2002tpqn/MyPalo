@@ -562,7 +562,7 @@ nav {
 
 .testimonial-card {
     background: white;
-    padding: 35px;
+    padding: 20px;
     border-radius: 20px;
     border-left: 4px solid var(--secondary-orange);
     position: relative;
@@ -598,12 +598,12 @@ nav {
 }
 
 .testimonial-avatar {
-    width: 52px;
-    height: 52px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
     overflow: hidden;
     flex-shrink: 0;
-    border: 2px solid var(--light-green);
+    border: 3px solid var(--light-green);
     background: var(--light-green);
     position: relative;
 }
@@ -633,10 +633,6 @@ nav {
     opacity: 0.5;
 }
 
-.testimonial-avatar-placeholder svg {
-    width: 32px;
-    height: 32px;
-}
 
 .testimonial-author-info {
     display: flex;
